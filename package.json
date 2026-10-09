@@ -1,5 +1,8 @@
 {
   "name": "card-grid-components-20261009134843",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node build.js"
+  }
 }
